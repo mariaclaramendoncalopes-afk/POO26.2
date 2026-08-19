@@ -1,4 +1,4 @@
-package atividade_1;
+package calculadora;
 import java.util.Scanner;
 public class CalculadoraCLI{
     public static void main(String[] args) {
