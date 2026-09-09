@@ -41,7 +41,7 @@ public class LampadaInteligente {
 
     @Override
     public String toString() {
-        return "A luz está ligada?" + ligada + "\n Intensidade" + intensidade + "\n Cor: " + cor;
+        return "A luz está ligada? " + ligada + "\n Intensidade: " + intensidade + "\n Cor: " + cor;
     }
 
 
